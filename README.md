@@ -1,0 +1,2 @@
+# Wordle
+ a simple game of Wordle. The first word provided is the secret word that the player is trying to guess. Note that all words provided will be 5 letters long. After each guess, the program displays the letters that were in the correct position. If the lesser was present in the word but not in the right place, replace that letter with a ?, else put a period if the letter isn’t present in the secret word at all.
